@@ -27,6 +27,6 @@ Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bi
 
 Tebrikler, ilk reponuzu oluşturup içinde çeşitli değişiklikler yaptınız!
 
-- Bundan sonra eğitmenimiz Hakan Yalçınkaya'nın [GitHub](https://github.com/hakanyalcinkaya) hesabına gidip "kodluyoruz-frontend-101-egitimi" adlı reposunu bulun. Bu repoyu forklayarak kendi GitHub hesabınıza alın ve daha sonrasında bilgisayarınıza clonelayıp kaynak dosyaları inceleyin. Hem konu tekrarı yapmış olacaksınız hem de fork işlemi nasıl çalışıyor bunu görmüş olacaksınız!
+- Bundan sonra eğitmenimiz Enes Pusa'nın [GitHub](https://github.com/enesps) hesabına gidip "kodluyoruz-frontend-101-egitimi" adlı reposunu bulun. Bu repoyu forklayarak kendi GitHub hesabınıza alın ve daha sonrasında bilgisayarınıza clonelayıp kaynak dosyaları inceleyin. Hem konu tekrarı yapmış olacaksınız hem de fork işlemi nasıl çalışıyor bunu görmüş olacaksınız!
 
 Hepinize başarılar ve kolay gelsin.
